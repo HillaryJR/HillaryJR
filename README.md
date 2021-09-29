@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I spend many hours listening to songs while studying, without music its borring
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![HillaryJR GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
