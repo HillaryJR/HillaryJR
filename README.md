@@ -4,7 +4,7 @@
 - 🔭 I’m currently intersted in Deep Learning and Neural Networks
 - 🤔 I’m a Data Science enthusiasist 
 - 💬 Ask me about : Things related to Data Science
-- 📫 How to reach me: FaceBook - https://www.facebook.com/radesh.hillary/
+- 📫 How to reach me: FaceBook - https://www.facebook.com/radesh.hillary/, hillaryjeramin@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend many hours listening to songs while studying, without music its borring
 
